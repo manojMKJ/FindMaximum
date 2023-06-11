@@ -14,8 +14,8 @@ i)	# To find the maximum of marks using the list method sort.
 ```Python
 ''' 
 Program to mark the maximum of marks using the list method sort
-Developed by: Balamurugan p
-RegisterNumber: 22008625
+Developed by: Manoj kumar G
+RegisterNumber: 22005014
 '''
 def max_marks(marks):
     marks.sort()
@@ -27,8 +27,8 @@ ii)	# To find the maximum marks using the list method max().
 ```Python
 ''' 
 Program to find the maximum marks using the list method max().
-Developed by:Balamurugan p 
-RegisterNumber: 22008625
+Developed by:Manoj kumar G 
+RegisterNumber: 22005014
 '''
 def max_marks(marks):
     large=max(marks)
@@ -41,8 +41,8 @@ iii) # To find the maximum marks without using builtin functions.
 ```Python
 ''' 
 Program to the maximum marks without using builtin functions.
-Developed by: Balamurugan :P
-RegisterNumber: 22008625
+Developed by: Manoj kumar G
+RegisterNumber: 22005014
 '''
 def max_marks(list1):
     max=list1[0]
